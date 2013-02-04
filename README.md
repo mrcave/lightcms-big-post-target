@@ -1,4 +1,3 @@
-lightignite-big-post-target
-===========================
+# ReadMe
 
-Increase the clickable size of a blog post summary beyond just the post title
+For more information on implementing this plugin, visit: http://lightignite.com/increase-the-clickable-area-of-blog-post-summaries
